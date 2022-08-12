@@ -406,7 +406,7 @@ onMounted(() => {
   } else {
     terminal.writeTextOutput(
       `Welcome to legu-Terminal!` +
-        `<a href="//github.com/liyupi/yuindex" target='_blank'> GitHub Open Source</a>`
+        `<a href="//github.com/81163954/" target='_blank'> GitHub Open Source</a>`
     );
     terminal.writeTextOutput("<br/>");
   }
